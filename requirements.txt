@@ -5,4 +5,4 @@ jupyter>=1.0.0
 prefect>=2.0b6
 mlflow
 
-evidently==0.4.7
+evidently==0.4.8
